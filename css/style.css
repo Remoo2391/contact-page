@@ -154,4 +154,11 @@ body{
   border-left: 8px solid #ffa502;
   border-radius: 4px;
 }
-
+@media(max-width:428px){
+  .contact-info{
+  max-width: 300px;
+  line-height: 55px;
+  padding-left: 40px;
+  font-size: 15px;
+  }
+}
